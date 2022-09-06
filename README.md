@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on projects, but it's mostly me opening issues on other peoples pages
 - 📫 How to reach me: Drop me an email at pieter(at)pieterhouwen.info
 
-Never spend 1 hour doing something manual when you can also spend 40+ hours automating it.
+Never spend 1 hour doing something manually when you can also spend 40+ hours automating it.
 
 <!---
 pieterhouwen/pieterhouwen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
